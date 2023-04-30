@@ -1,4 +1,4 @@
-## Olá! Eu sou o David ✌
+## Olá! Eu sou o David ✌ | Hello! I'm David ✌
 
 [![Blog](https://img.shields.io/website?label=Website&style=for-the-badge&url=https://davidfernandes.netlify.app/)](https://davidfernandes.netlify.app/)
 
